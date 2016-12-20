@@ -29,19 +29,30 @@ public class tGameLogic : MonoBehaviour
     #endregion
 
     #region Utility Methods
-    void startPuzzle()
+    public void startPuzzle()
     {
+        //begin puzzle sequence
+        toggleUI();
+        iTween.MoveTo(player, iTween.Hash("position", playPoint.transform.position, "time", 2, "easetype", "linear"));
+    }
+
+
+    public void resetPuzzle()
+    {
+        //reset puzzle sequence
+        player.transform.position = startPoint.transform.position;
         toggleUI();
     }
 
-    void toggleUI()
+    public void puzzleSuccess()
     {
-
+        iTween.MoveTo(player, iTween.Hash("position", restartPoint.transform.position, "time", 2, "easetype", "linear"));
     }
 
-    void puzzleSuccess()
+    public void toggleUI()
     {
-
+        startUI.SetActive(!startUI.activeSelf);
+        restartUI.SetActive(!restartUI.activeSelf);
     }
     #endregion
     // Use this for initialization
