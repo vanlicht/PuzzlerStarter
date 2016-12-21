@@ -33,7 +33,7 @@ public class tGameLogic : MonoBehaviour
     {
         //begin puzzle sequence
         toggleUI();
-        iTween.MoveTo(player, iTween.Hash("position", playPoint.transform.position, "time", 2, "easetype", "linear"));
+        iTween.MoveTo(player, iTween.Hash("position", playPoint.transform.position, "time", 1, "easetype", "linear"));
     }
 
 
@@ -46,7 +46,7 @@ public class tGameLogic : MonoBehaviour
 
     public void puzzleSuccess()
     {
-        iTween.MoveTo(player, iTween.Hash("position", restartPoint.transform.position, "time", 2, "easetype", "linear"));
+        iTween.MoveTo(player, iTween.Hash("position", restartPoint.transform.position, "time", 1, "easetype", "linear"));
     }
 
     public void toggleUI()
