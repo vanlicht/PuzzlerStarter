@@ -27,13 +27,8 @@ public class GameLogic : MonoBehaviour
     void Start()
     {
         puzzleOrder = new int[puzzleLength]; //Set the size of our array to the declared puzzle length
-        generatePuzzleSequence(); //Generate the puzzle sequence for this playthrough.  
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
+        generatePuzzleSequence(); //Generate the puzzle sequence for this playthrough.
+        player.transform.position = startPoint.transform.position;
     }
 
 
