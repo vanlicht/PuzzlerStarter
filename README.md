@@ -13,3 +13,18 @@ The basic structure of the puzzle is based on Simon Says structure, in the VR se
 
 <a href="https://youtu.be/F-uN8PfEV5M" alt="Video captured from Android mobile phone " target="_blank"><img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler001.png" alt="Puzzler video from Unity3D" width="560">
 <br>Video captured from Android mobile phone (the recording has no sound)</a>
+
+# Design Process
+## Statement of Purpose
+Puzzler is a mobile VR experience for users who are new to VR, to explore the immersive experience and new form of user interaction design in VR.
+
+## Persona
+Will, 45 - musician in midwest
+“I am curious about new digital experience through new technology.” He is familiar with digital devices such as smartphones and iPads and DSLRs, but is not familiar with mobile games or virtual reality. He prefers to explore experience to be easy to understand, straightforward, and fun. He is novice to VR experience.
+
+## Sketches
+Here are some UI sketches and scene layout for conceptualizing the project.
+<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch001.png" alt="First UI design iteration" width="300">
+<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch001.png" alt="Second UI design iterationn" width="300">
+
+<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch003.png" alt="Scene layout design" width="300">
