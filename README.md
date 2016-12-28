@@ -25,6 +25,7 @@ Will, 45 - musician in midwest
 ## Sketches
 Here are some UI sketches and scene layout for conceptualizing the project.
 
+UI design Iteration: Simplify UI, and make the restart panel transparent for user to enjoy the view after successfully solving the puzzle
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch001.jpg" alt="First UI design iteration" width="300">
 First UI design iteration
 
@@ -32,3 +33,7 @@ First UI design iteration
 Second UI design iteration 
 
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch003.jpg" alt="Scene layout design" width="300">
+Scene layout design
+Design the scene to make the environment and experience more immersive and appealing
+
+
