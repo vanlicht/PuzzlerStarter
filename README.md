@@ -23,20 +23,17 @@ Will, 45 - musician in midwest
 “I am curious about new digital experience through new technology.” He is familiar with digital devices such as smartphones and iPads and DSLRs, but is not familiar with mobile games or virtual reality. He prefers to explore experience to be easy to understand, straightforward, and fun. He is novice to VR experience.
 
 ## Sketches
-Here are some UI sketches and scene layout for conceptualizing the project.
-
-
-<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch001.jpg" alt="First UI design iteration" width="300">
-First UI design iteration
-
-<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch002.jpg" alt="Second UI design iterationn" width="300">
-Second UI design iteration 
+Here are some UI sketches and scene layout for conceptualizing the project:
 
 UI design Iteration: Simplify UI, and make the restart panel transparent for user to enjoy the view after successfully solving the puzzle
 
-<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch003.jpg" alt="Scene layout design" width="300">
-Scene layout design
+<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch001.jpg" alt="First UI design iteration" width="300">
 
-Design the scene to make the environment and experience more immersive and appealing
+<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch002.jpg" alt="Second UI design iterationn" width="300">
+
+Scene layout design: Design the scene to make the environment and experience more immersive and appealing
+
+<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch003.jpg" alt="Scene layout design" width="300">
+
 
 
