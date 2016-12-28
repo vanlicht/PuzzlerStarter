@@ -56,15 +56,15 @@ The third and final user testing focused on the speed of movement, UI fine tunin
 # Breakdown of the final piece
 The final result of the experience is documented in the following screen captured directly from the android phone app. At the start (picture 1), the users sees a Start UI panel with a button for them to click, while the environment also provides interesting and immersive experience for them to look around prior to starting the game (picture 2 and 3). After clicking the on the start button, the user is moved to the ancient looking structure where the interior is illuminated by the torch (picture 4 and 5). Inside the building, there are 5 orbs that illuminate in random sequence of five that the user has to remember (picture 6). If the attempt of re-creating the sequence is wrong, the alert sounds, and the orbs will illuminate the same pattern again for the use to try. If successful, the user exits the dungeon back to the exterior desert night scene (picture 7 through 10). The user can restart the game by clicking on the Restart button.
 
-<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler001.png" alt="Scene layout design" width="300">
-<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/UnityVideoCover.PNG" alt="Puzzler video from Unity3D" width="560">
-<br>Puzzler video from Unity3D</br>
-
+<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler001.png" alt="Scene layout design" width="560">
+<br>picture 01</br>
 
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler002.png" alt="Scene layout design"
 width="300">
+<br>picture 02</br>
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler003.png" alt="Scene layout design"
 width="300">
+<br>picture 03</br>
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler004.png" alt="Scene layout design"
 width="300">
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler005.png" alt="Scene layout design"
