@@ -60,22 +60,47 @@ The final result of the experience is documented in the following screen capture
 <br>picture 01</br>
 
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler002.png" alt="Scene layout design"
-width="300">
+width="560">
 <br>picture 02</br>
+
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler003.png" alt="Scene layout design"
-width="300">
+width="560">
 <br>picture 03</br>
+
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler004.png" alt="Scene layout design"
-width="300">
+width="560">
+<br>picture 04</br>
+
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler005.png" alt="Scene layout design"
-width="300">
+width="560">
+<br>picture 05</br>
+
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler006.png" alt="Scene layout design"
-width="300">
+width="560">
+<br>picture 06</br>
+
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler007.png" alt="Scene layout design"
-width="300">
+width="560">
+<br>picture 07</br>
+
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler008.png" alt="Scene layout design"
-width="300">
+width="560">
+<br>picture 08: After winning, looking back in from the direction of the exit gate</br>
+
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler009.png" alt="Scene layout design"
-width="300">
+width="560">
+<br>picture 09</br>
+
 <img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/Puzzler010.png" alt="Scene layout design"
-width="300">
+width="560">
+<br>picture 10</br>
+
+# Conclusion
+The VR experience runs fairly smoothly and lightweight after baking the light into the app. This app demonstrated how effective the immersive experience and mood can be designed, using light and shadow, spatial sound, and intuitive user interface design. It also illustrates the visual queue and spatial audio cue can be powerful design tool to help curate user’s viewing/ interactive experience. 
+
+# Next Steps
+Additional design work of addition animation to the orbs can enhance the seamless and dramatic experience of the app. Also, based on the positive feedback of better, more predictable and comfortable viewing experience using Daydream View headset, my next step will be integrating the app to Daydream platform. 
+
+# Link to additional work
+For more VR experience and research, please visit my [GitHub](https://github.com/vanlicht) and [Website](http://www.chaotung.com).
+
