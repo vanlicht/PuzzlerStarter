@@ -24,7 +24,7 @@ Will, 45 - musician in midwest
 
 ## Sketches
 Here are some UI sketches and scene layout for conceptualizing the project.
-<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch001.png" alt="First UI design iteration" width="300">
-<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch001.png" alt="Second UI design iterationn" width="300">
+<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch001.jpg" alt="First UI design iteration" width="300">
+<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch002.jpg" alt="Second UI design iterationn" width="300">
 
-<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch003.png" alt="Scene layout design" width="300">
+<img src="https://github.com/vanlicht/PuzzlerStarter/blob/master/Assets/Documentation/sketch003.jpg" alt="Scene layout design" width="300">
